@@ -19,7 +19,7 @@ We are creating a caster.
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+[Pietro-The Base in Onshape](https://cvilleschools.onshape.com/documents/21da3990e30baedae950a0df/w/8a17235b57a33920783b2315/e/4b033c503785059520d84eaa)
 
 ### Image
 
@@ -27,14 +27,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+Following along with the video made the assignment considerably easier. I would go, watch him perform a step, pause the video and do the step myself. My only worry is if I become to over dependent on his videos. I suppose we'll find out when we start doing independent projects. Once I got the hang of what we were doing it was a breeze, but before I got the hang of it it was tricky, and frustrating. 
 
 ---
 
