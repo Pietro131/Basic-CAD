@@ -23,7 +23,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
+<img src="file:///C:/Users/pietr/Pictures/Screenshots/Screenshot%20(6).png" alt="The Base" width="200">
 
 ### Reflection
 
