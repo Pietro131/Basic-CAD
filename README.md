@@ -23,11 +23,13 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-<img src="Images/Base.png" alt="TheBase" width="200" height="150">
+<img src="Images/Base.png" alt="TheBase" width="200" height="200">
 
 ### Reflection
 
 Following along with the video made the assignment considerably easier. I would go, watch him perform a step, pause the video and do the step myself. My only worry is if I become to over dependent on his videos. I suppose we'll find out when we start doing independent projects. Once I got the hang of what we were doing it was a breeze, but before I got the hang of it it was tricky, and frustrating. 
+
+Adding an image to my GitHub was very frustrating but with the help of Mr. Dierolf I got it done.
 
 ---
 
