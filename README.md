@@ -46,7 +46,7 @@ I built a square with the sides being 120 mm. Then on each corner of the square 
 
 ### Image
 
-<img src="images/Screenshot 2020-10-07 131731.png" alt=The Mount width=250 height=200>
+<img src="images/Screenshot 2020-10-07 131731.png" alt=The Mount width=270 height=200>
 
 ### Reflection
 
