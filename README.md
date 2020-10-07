@@ -47,7 +47,9 @@ I built a square with the sides being 120 mm. Then on each corner of the square 
 ### Image
 
 ### Reflection
+
 This one was pretty easy and I finished it really quickly compared to "The Base." That may just be because "The Base" was the first one I did so I had less experience.
+
 ---
 
 
