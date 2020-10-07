@@ -46,6 +46,8 @@ I built a square with the sides being 120 mm. Then on each corner of the square 
 
 ### Image
 
+<img src="images/Screenshot 2020-10-07 131731.png" alt=The Mount width=128 height=128>
+
 ### Reflection
 
 This one was pretty easy and I finished it really quickly compared to "The Base." That may just be because "The Base" was the first one I did so I had less experience.
