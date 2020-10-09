@@ -59,11 +59,17 @@ This one was pretty easy and I finished it really quickly compared to "The Base.
 
 ### Description
 
+Of all the ones we've done so far this one is definetly the hardest. We built something that kinda looks like the plug for an electrical device. It has a circular base, with two tongs coming out of one end. The tongs have circles on the end of them. On the other side of the circular base is a hollow cylender coming out of it.
+
 ### Evidence
+
+[Pietro-Fork in Onshape](https://cvilleschools.onshape.com/documents/e22543b8e56e8cae94e9c4e1/w/7eb87ae05e98dd22c4641fee/e/595a33aa47254159e5db7707)
 
 ### Image
 
 ### Reflection
+
+Even though this was the hardest/most complicated one we've had to do so far, I managed to do it the quickest. I've begun to memorize some of the keyboard shortcuts, I've had to pause the videos less, and I can build the shapes quicker. 
 
 ---
 
