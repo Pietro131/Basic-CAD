@@ -67,7 +67,7 @@ Of all the ones we've done so far this one is definetly the hardest. We built so
 
 ### Image
 
-<img src="Images/TheFork.png" alt=The Fork width= 200 height=200>
+<img src="Images/TheFork.png" alt=The Fork width= 250 height=200>
 
 ### Reflection
 
