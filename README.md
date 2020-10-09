@@ -67,6 +67,8 @@ Of all the ones we've done so far this one is definetly the hardest. We built so
 
 ### Image
 
+<img src="images/TheFork.png" alt=The Fork width= 200 height=200>
+
 ### Reflection
 
 Even though this was the hardest/most complicated one we've had to do so far, I managed to do it the quickest. I've begun to memorize some of the keyboard shortcuts, I've had to pause the videos less, and I can build the shapes quicker. 
