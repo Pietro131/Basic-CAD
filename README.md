@@ -88,7 +88,7 @@ For this we made a tire, similar to one you would see on a bike.
 
 ### Image
 
-
+<img src=Images/TheTire.png alt=The Tire width=250 height=200>
 
 ### Reflection
 
