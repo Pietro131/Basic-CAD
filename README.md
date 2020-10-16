@@ -80,11 +80,19 @@ Even though this was the hardest/most complicated one we've had to do so far, I 
 
 ### Description
 
+For this we made a tire, similar to one you would see on a bike.
+
 ### Evidence
+
+[Pietro-Tire in Onshape](https://cvilleschools.onshape.com/documents/e9e793557ff1a1d67ee78ea3/w/d95248472bda4afc233ae1ee/e/d516f776fa9ed88f1a0f863f)
 
 ### Image
 
+
+
 ### Reflection
+
+This one seemed pretty tricky but not much new was introduced so I could do it pretty easily.
 
 ---
 
