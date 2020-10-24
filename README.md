@@ -101,11 +101,17 @@ This one seemed pretty tricky but not much new was introduced so I could do it p
 
 ### Description
 
+This is a wheel with five spokes, it does not include the tire. Later one I added bearings to the wheel
+
 ### Evidence
+
+[Pietro-Tire in Onshape](https://cvilleschools.onshape.com/documents/c1722f0df6a3aa7ee936e010/w/124160c0fec0baaf6b7258fe/e/bb82c8cf99cce449771e451b)
 
 ### Image
 
 ### Reflection
+
+The wheel was the hardest one I've done yet, but the bearings were pretty easy.
 
 ---
 
