@@ -130,7 +130,7 @@ This is where the wheel will be put onto. Basically it looks like a pipe.
 
 ### Image
 
-
+<img src=Images/AxleandCollar.png alt=Axle and Collar width=250 height=200>
 
 ### Reflection
 
