@@ -97,7 +97,7 @@ This one seemed pretty tricky but not much new was introduced so I could do it p
 ---
 
 
-## Wheel
+## Wheel and Bearings
 
 ### Description
 
@@ -109,6 +109,8 @@ This is a wheel with five spokes, it does not include the tire. Later one I adde
 
 ### Image
 
+<img src=Images/WheelandBearings alt=Wheel and Bearings width=250 height=200>
+
 ### Reflection
 
 The wheel was the hardest one I've done yet, but the bearings were pretty easy.
@@ -116,7 +118,7 @@ The wheel was the hardest one I've done yet, but the bearings were pretty easy.
 ---
 
 
-## AxleCollarBearings
+## Axle and Collar
 
 ### Description
 
