@@ -109,7 +109,7 @@ This is a wheel with five spokes, it does not include the tire. Later one I adde
 
 ### Image
 
-<img src=Images/WheelandBearings alt=Wheel and Bearings width=250 height=200>
+<img src=Images/WheelandBearings.png alt=Wheel and Bearings width=250 height=200>
 
 ### Reflection
 
