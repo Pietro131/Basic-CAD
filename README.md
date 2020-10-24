@@ -101,11 +101,11 @@ This one seemed pretty tricky but not much new was introduced so I could do it p
 
 ### Description
 
-This is a wheel with five spokes, it does not include the tire. Later one I added bearings to the wheel
+This is a wheel with five spokes, it does not include the tire. Later one I added bearings to the wheel. In the image/evidence the grey part is the bearings while the blue part is the wheel.
 
 ### Evidence
 
-[Pietro-Tire in Onshape](https://cvilleschools.onshape.com/documents/c1722f0df6a3aa7ee936e010/w/124160c0fec0baaf6b7258fe/e/bb82c8cf99cce449771e451b)
+[Pietro-Wheel and Bearings in Onshape](https://cvilleschools.onshape.com/documents/c1722f0df6a3aa7ee936e010/w/124160c0fec0baaf6b7258fe/e/bb82c8cf99cce449771e451b)
 
 ### Image
 
@@ -122,10 +122,18 @@ The wheel was the hardest one I've done yet, but the bearings were pretty easy.
 
 ### Description
 
+This is where the wheel will be put onto. Basically it looks like a pipe.
+
 ### Evidence
+
+[Pietro-Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/2b9550f5ea38c00379f57981/w/a601b17b21ac5afbce517d84/e/1879c8f517b488178577f1c1)
 
 ### Image
 
+
+
 ### Reflection
+
+This one was pretty easy, its where I first learned to have part studios and multiple parts in one document, which is a really cool feature and something I will use in the future.
 
 ---
