@@ -150,7 +150,7 @@ In this I put everything together.
 
 ### Image
 
-<img src=Images/Annotation 2020-11-07 090431.png alt=Final Assembly width=250 height-200>
+<img src=Images/Annotation2020-11-07090431.png alt=Final Assembly width=250 height-200>
 
 ### Reflection
 
