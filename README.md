@@ -150,6 +150,8 @@ In this I put everything together.
 
 ### Image
 
+<img src=Images/Annotation 2020-11-07 090431.png alt=Final Assembly width=250 height-200>
+
 ### Reflection
 
 This one took me a really long time, but it's awesome to see it all put together.
