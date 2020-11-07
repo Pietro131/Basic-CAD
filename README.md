@@ -137,3 +137,19 @@ This is where the wheel will be put onto. Basically it looks like a pipe.
 This one was pretty easy, its where I first learned to have part studios and multiple parts in one document, which is a really cool feature and something I will use in the future.
 
 ---
+
+### Final Assembly
+
+### Description
+
+In this I put everything together.
+
+### Evidence
+
+[Pietro-Final Assembly in Onshape](https://cvilleschools.onshape.com/documents/5037e88ee2d84f2766fb0bb9/w/eb37b893ff4a55226cbc3d88/e/2f55d5a53360e6e55c1fcdaa)
+
+### Image
+
+### Reflection
+
+This one took me a really long time, but it's awesome to see it all put together.
